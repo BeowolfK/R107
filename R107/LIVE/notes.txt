@@ -1,0 +1,24 @@
+TP1:
+    Variables
+    Initialisation
+    permutation
+    opérateurs et incrémentation
+    conditions
+
+TP2:
+    structures conditioinelles
+    stuctures itératives
+
+TP3:
+    fonction (/!\ != entre fonction et fonction de classe)
+    import
+
+TP4 et 5:
+    liste et assert
+
+TP6:
+    chaines de charactere
+    charactere spéciaux:
+
+TP7:
+    fichiers
